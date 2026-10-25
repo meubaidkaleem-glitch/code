@@ -1,3 +1,4 @@
+// Pushes to stack and enqueues to queue, then compares LIFO vs FIFO order (palindrome check).
 import java.util.Scanner;
 
 public class PacketSymmetryAuditor {
