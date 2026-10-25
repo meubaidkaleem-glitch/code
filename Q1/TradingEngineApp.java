@@ -1,3 +1,4 @@
+// Driver: superclass references call overridden dispatch() at run time (polymorphism).
 public class TradingEngineApp {
     public static void main(String[] args) {
         TradeEvent e1 = new TradeEvent("GENERIC-01", System.currentTimeMillis(), 100.0);
