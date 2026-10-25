@@ -1,3 +1,4 @@
+// Benchmarks a synchronized HashMap against ConcurrentHashMap with 10 threads.
 import java.util.*;
 import java.util.concurrent.*;
 
