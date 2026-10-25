@@ -1,3 +1,4 @@
+// Splits 50,000 readings across 4 chunks; min and max workers run simultaneously.
 import java.util.Random;
 
 public class SensorGridMonitorApp {
