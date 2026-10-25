@@ -1,3 +1,4 @@
+// Row-major vs column-major traversal of a 2000x2000 matrix to show cache locality.
 public class CacheLocalityBenchmark {
     static final int N = 2000;
     static double[][] matrix = new double[N][N];
