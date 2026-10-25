@@ -1,3 +1,4 @@
+// Compares serial sum with ForkJoinPool sum and applies the 5 percent stress-test penalty.
 import java.util.Random;
 import java.util.concurrent.ForkJoinPool;
 
