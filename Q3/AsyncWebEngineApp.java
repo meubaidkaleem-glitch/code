@@ -1,3 +1,4 @@
+// Starts a Thread subclass and a Runnable-based Thread concurrently, then joins both.
 public class AsyncWebEngineApp {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("Default JVM thread: " + Thread.currentThread().getName());
